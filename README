@@ -1,0 +1,31 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=416
+
+The purpose of these extensions is to make the use of Vim easier, especially for programming tasks, while preserving the extraordinary features of Vim, which make
+it (imho) one of the best editors available.
+
+The main part, and probably of most interest for you, is the possibility to enter folds. Entering a fold means to hide everything apart from the fold, so that only the fold you have entered is visible. Thus, you will be able to organise your files much better, and to find and edit certain parts of your files much easier and faster. Especially for long source code files, this is very useful.
+
+There are also a lot of other features, please check out the help on that by typing
+
+:help kent
+
+after installation.
+
+Note: These extensions are tested for Vim version 6.1 onwards. No guarantees for lower versions!
+
+There are the following parts:
+
+Kent Folding Extensions:
+Extensions to improve the look and feel of folds.
+Especially the possibility to enter folds, inspired by the old origami editor, is very useful.
+
+Improvements to the Look and Feel of Vim and GVim:
+The purpose is to make it easier to use Vim, especially for users without a lot of Vim experience.
+
+Kent Programming Extensions:
+Extensions useful for programming tasks.
+For example commenting out parts of the code depending on the language.
+
+Kent occam Extensions:
+Extensions related to the occam language.
+Contains syntax and indent files for occam, as well as an easy way to compile, debug and run occam programs.
